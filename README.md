@@ -35,3 +35,4 @@ Opam v4.1+ is required.
 
 # Releases
 
+Binary releases are available. 
