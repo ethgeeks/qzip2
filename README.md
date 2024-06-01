@@ -37,4 +37,6 @@ Opam v4.1+ is required.
 
 Binary releases are available for Linux only:
 
-[Download qzip2](RELEASES/qzip2)
+```bash
+wget https://github.com/ethgeeks/qzip2/blob/master/RELEASES/qzip2
+```
