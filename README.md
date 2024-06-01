@@ -39,4 +39,5 @@ Binary releases are available for Linux only:
 
 ```bash
 wget https://github.com/ethgeeks/qzip2/blob/master/RELEASES/qzip2
+chmod +x qzip2
 ```
