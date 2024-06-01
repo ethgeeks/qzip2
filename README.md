@@ -35,4 +35,6 @@ Opam v4.1+ is required.
 
 # Releases
 
-Binary releases are available. 
+Binary releases are available for Linux only:
+
+[Download qzip2](RELEASES/qzip2)
